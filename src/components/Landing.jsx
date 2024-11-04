@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 export function Landing() {
   return (
@@ -8,4 +8,4 @@ export function Landing() {
   )
 }
 
-export default Landing
+
