@@ -1,6 +1,7 @@
+
 import { useNavigate } from "react-router-dom";
 
-export function Appbar(){
+export default function Appbar(){
     const navigate = useNavigate();
     return(
       <div>
